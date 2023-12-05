@@ -1,0 +1,7 @@
+DOM: Document Object Model (Modelo de Objeto de Documento) (API)
+    Interfaz de Programacion de Aplicaciones
+    Permite la Comunicacion entre dos App
+    Permite ejecutar codigo en el Navegador para aceeder o interactuar con cualquier nodo del Documento.
+
+    Representacion del HTML
+    Esctructura de Datos Arbol
